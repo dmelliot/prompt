@@ -1,0 +1,2 @@
+# prompt
+Shell prompt config
